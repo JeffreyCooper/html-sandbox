@@ -22,6 +22,8 @@
 
 				Air plant keffiyeh blue bottle, kickstarter gluten-free subway tile brooklyn freegan jianbing church-key glossier. Shabby chic bicycle rights selvage, jean shorts cronut yr semiotics pabst sartorial kale chips flexitarian asymmetrical. Listicle squid organic flannel authentic. Bespoke umami crucifix, polaroid scenester jean shorts fap XOXO ethical franzen chicharrones brunch keffiyeh small batch kitsch. Yuccie flannel intelligentsia, lumbersexual crucifix vinyl organic chillwave PBR&B. Pork belly brunch subway tile chambray drinking vinegar, dreamcatcher cronut vinyl chartreuse. Fashion axe art party meh readymade, tofu activated charcoal single-origin coffee.</p>
 			<img src="images/sandbox-normandy-beach.jpg" alt="Sandbox of Normandy Beach" />
+			<p>Click me for a surprise! <a href="http://www.swminiart.com" target="_blank">Click me for a surprise!</a></p>
+			<p>Want another surprise? Here you go!<a href="about/index.php">Here you go!</a></p>
 		</main>
 	</body>
 </html>
