@@ -41,7 +41,26 @@
 
 			<h3>Cats &amp; Dogs</h3>
 			<table>
-				<tr></tr>
+				<tr>
+					<th>Cats</th>
+					<th>Dogs</th>
+				</tr>
+				<tr>
+					<td>Tabby</td>
+					<td>Weiner</td>
+				</tr>
+				<tr>
+					<td>Tortoise</td>
+					<td>Labrador</td>
+				</tr>
+				<tr>
+					<td>Sheba</td>
+					<td>Dori</td>
+				</tr>
+				<tr>
+					<td>Meow</td>
+					<td>Ruff</td>
+				</tr>
 			</table>
 		</main>
 	</body>
