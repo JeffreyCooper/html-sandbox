@@ -11,6 +11,10 @@
 	<body>
 		<header>
 			<h1>HTML Sandbox</h1>
+			<h2>H2 Style</h2>
+			<h2 class="primary">Class Primary</h2>
+			<h3>H3 Style</h3>
+			<h3 id="titles">H3 ID titles</h3>
 		</header>
 		<main>
 			<h2>Text:</h2>
