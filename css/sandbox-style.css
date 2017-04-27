@@ -1,1 +1,6 @@
 /* css file */
+
+h2,
+p {
+	color: cornflowerblue;
+}
