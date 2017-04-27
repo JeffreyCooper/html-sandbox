@@ -11,13 +11,13 @@
 	<body>
 		<header>
 			<h1>HTML Sandbox</h1>
+		</header>
+		<main>
+			<h2>Text:</h2>
 			<h2>H2 Style</h2>
 			<h2 class="primary">Class Primary</h2>
 			<h3>H3 Style</h3>
 			<h3 id="titles">H3 ID titles</h3>
-		</header>
-		<main>
-			<h2>Text:</h2>
 			<p>Bicycle rights schlitz live-edge mixtape fam, beard meditation kinfolk forage. Echo park PBR&B bitters tumblr pickled enamel pin, franzen helvetica tousled everyday carry glossier gluten-free pinterest. Normcore paleo slow-carb synth. Direct trade lomo glossier woke, yr hexagon raclette ethical yuccie aesthetic selfies tumblr street art. Cray franzen butcher kogi kickstarter authentic. Photo booth cold-pressed banh mi forage, knausgaard farm-to-table health goth tilde pork belly offal franzen. Pour-over cold-pressed marfa truffaut, normcore trust fund tumeric synth.
 
 				Drinking vinegar banh mi biodiesel yr, gluten-free snackwave austin artisan echo park chartreuse before they sold out synth ethical chicharrones venmo. Kickstarter lyft scenester tbh helvetica artisan. Cornhole street art brooklyn, typewriter letterpress chambray asymmetrical flexitarian meditation distillery everyday carry hot chicken iPhone. Biodiesel offal green juice photo booth disrupt sriracha, tacos affogato raw denim kale chips waistcoat. Edison bulb church-key selvage vinyl jianbing ugh, food truck 90's thundercats williamsburg mixtape bespoke banh mi. Chia vegan pok pok austin hot chicken jianbing, pinterest gochujang williamsburg hashtag put a bird on it you probably haven't heard of them hell of pour-over af. Pok pok four loko leggings butcher.
